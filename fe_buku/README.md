@@ -1,10 +1,12 @@
 # UML
 
-![Alt Text](./assets/ClassDiagram.drawio.png)
+![Class Diagram](./assets/ClassDiagram.drawio.png)
 
-![Alt Text](./assets/ERD.png)
-![Alt Text](./assets/UseCase.png)
-![Alt Text](./assets/web3.jpeg)
-![Alt Text](./assets/web2.jpeg)
-![Alt Text](./assets/web1.jpeg)
+![ERD](./assets/ERD.png)
+
+![Use Case](./assets/UseCase.png)
+
+![Tampilan web](./assets/web3.jpeg)
+![](./assets/web2.jpeg)
+![](./assets/web1.jpeg)
 
