@@ -1,16 +1,15 @@
 # UML
 
 ### Class Diagram
-![](../assets/ClassDiagram.drawio.png)
+<img src="./assets/ClassDiagram.drawio.png" alt="" width="500">
 
 ### ERD
-![](../assets/ERD.png)
+<img src="./assets/ERD.png" alt="" width="500">
 
-### Use Case
-![](../assets/UseCase.png)
+### Use Case Diagram
+<img src="./assets/UseCase.png" alt="" width="500">
 
 ### Tampilan web
-![](../assets/web3.jpeg)
-![](../assets/web2.jpeg)
-![](../assets/web1.jpeg)
-
+<img src="./assets/web3.jpeg" alt="" width="500">
+<img src="./assets/web2.jpeg" alt="" width="500">
+<img src="./assets/web1.jpeg" alt="" width="500">
