@@ -16,7 +16,9 @@
 
 
 ## Konsep
-merupakan web online shop khusus untuk membeli buku
+Website ini adalah sistem pemesanan buku online yang memungkinkan pengguna untuk melihat katalog buku, menambahkan buku ke keranjang, dan melakukan pembayaran secara online. Aplikasi ini terdiri dari dua bagian utama: Backend (Express & Sequelize) dan Frontend (React & Vite).
+
+
 
 ### Model
 - User (customer dan admin)
